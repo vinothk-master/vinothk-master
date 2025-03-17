@@ -4,7 +4,7 @@ Ex R&D Engineer @ Nokia
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently solving DSA problems in leetcode and contributing to Opensource projects.
-- Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
+- Engineeing at [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Frussell-group-universities%2Funiversity-of-birmingham-logo-horizontal&psig=AOvVaw2TdYOtNbH6znHWkmwCfrqb&ust=1742301499074000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiJ5IGRkYwDFQAAAAAdAAAAABAE" height="24">](https://www.highbrowtechnology.com/),
 - Previously worked with [<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Fnokia-new-logo-2023-png-vector&psig=AOvVaw2ada5EVHb2PckW2bN576ez&ust=1742299055010000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIiKkPaHkYwDFQAAAAAdAAAAABAJ" height="24">](https://www.nokia.com/) 
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
@@ -13,7 +13,7 @@ Ex R&D Engineer @ Nokia
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/gitlab.png" alt="gitlab"/><img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/> <img width="64" height="64" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img width="48" height="48" src="https://img.icons8.com/color/48/gitlab.png" alt="gitlab"/><img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/> <img width="50" height="50" src="https://img.icons8.com/nolan/64/wireshark--v1.png" alt="wireshark--v1"/><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 ### 💻 Operating System
 <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/><img width="48" height="48" src="https://img.icons8.com/color/48/mac-os--v1.png" alt="mac-os--v1"/>
 
