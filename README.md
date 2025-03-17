@@ -19,7 +19,7 @@ Ex R&D Engineer @ Nokia
 
 ### My Project
 
-<img width="50" height="50" src="https://img.icons8.com/ios/50/sailing-ship-large.png" alt="sailing-ship-large"/>![Battle Ship Game](https://github.com/vinothk-master/Battleship_game)
+<img width="48" height="48" src="https://img.icons8.com/color/48/sailing-ship-large.png" alt="sailing-ship-large"/>![Battle Ship Game](https://github.com/vinothk-master/Battleship_game)
 
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinothk-master&theme=dark&show_icons=true&&hide=issues,contribs)
