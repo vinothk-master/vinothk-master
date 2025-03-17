@@ -4,8 +4,8 @@ Ex R&D Engineer @ Nokia
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently solving DSA problems in leetcode and contributing to Opensource projects.
-- Engineeing at [<img height="20" width="50" src="https://github.com/vinothk-master/vinothk-master/blob/main/assets/crested-wm-full-colour-e1671624830551.png?raw=true">](https://www.birmingham.ac.uk/),
-- Previously worked with [<img height="20" width="50" src="https://github.com/vinothk-master/vinothk-master/blob/main/assets/nokia-white-logo-transparent-background-701751694774017corf2onr4w.png?raw=true">](https://www.nokia.com/) 
+- Engineeing at [The University of Birmingham](https://www.birmingham.ac.uk/),
+- Previously worked with [NOKIA](https://www.nokia.com/) 
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
