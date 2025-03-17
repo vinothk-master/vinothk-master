@@ -2,11 +2,10 @@
 
 Ex R&D Engineer @ Nokia
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 This is Vinoth Kannan, I have 4 years of work experience in Software Development.                                                 
+- 🔭 This is Vinoth Kannan, I have 4 years of work experience in Software Development with products based on Wireless, Networking, Fiber Optics.                                                 
 - 🌱 I’m currently solving DSA problems in leetcode and contributing to Opensource projects.
 - Engineeing at [The University of Birmingham](https://www.birmingham.ac.uk/),
 - Previously worked with [NOKIA](https://www.nokia.com/), [VVDN Technologies Pvt. Ltd.](https://www.vvdntech.com/)
-- ⚡ Fun fact: I know Japanese.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinothkann97/)
 
