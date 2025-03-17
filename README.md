@@ -5,7 +5,7 @@ Ex R&D Engineer @ Nokia
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently solving DSA problems in leetcode and contributing to Opensource projects.
 - Engineeing at [The University of Birmingham](https://www.birmingham.ac.uk/),
-- Previously worked with [NOKIA](https://www.nokia.com/) 
+- Previously worked with [NOKIA](https://www.nokia.com/), [VVDN Technologies Pvt. Ltd.](https://www.vvdntech.com/)
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
