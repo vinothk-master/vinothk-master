@@ -9,7 +9,7 @@ Ex R&D Engineer @ Nokia
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinothkann97/)
 
-### My Project
+### My Contributions
 
 
 [<img src="https://img.icons8.com/color/48/sailing-ship-large.png" height="100px">](https://github.com/vinothk-master/Battleship_game)
