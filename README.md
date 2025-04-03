@@ -11,8 +11,8 @@ Ex R&D Engineer @ Nokia
 
 ### My Project
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/sailing-ship-large.png" alt="sailing-ship-large"/>[Battle Ship Game](https://github.com/vinothk-master/Battleship_game)
-[<img src="https://img.icons8.com/color/48/sailing-ship-large.png" height="150px">][Battle Ship Game](https://github.com/vinothk-master/Battleship_game)
+
+[<img src="https://img.icons8.com/color/48/sailing-ship-large.png" height="100px">](https://github.com/vinothk-master/Battleship_game)
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
 ### IDE and Tools I Use
