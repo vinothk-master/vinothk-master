@@ -29,4 +29,3 @@ Ex R&D Engineer @ Nokia
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/vinothkannan97?theme=dark&font=Noto%20Sans%20Balinese)](https://leetcode.com/u/vinothkannan97/)
 
-[![Vinoth Kannan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinothk-master&bg_color=000000&color=9e4c98&line=4e9e4c&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
