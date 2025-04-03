@@ -9,6 +9,10 @@ Ex R&D Engineer @ Nokia
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vinothkann97/)
 
+### My Project
+
+<img width="48" height="48" src="https://img.icons8.com/color/48/sailing-ship-large.png" alt="sailing-ship-large"/>[Battle Ship Game](https://github.com/vinothk-master/Battleship_game)
+[<img src="https://img.icons8.com/color/48/sailing-ship-large.png" height="150px">][Battle Ship Game](https://github.com/vinothk-master/Battleship_game)
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/>
 ### IDE and Tools I Use
@@ -16,9 +20,7 @@ Ex R&D Engineer @ Nokia
 ### 💻 Operating System
 <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/><img width="48" height="48" src="https://img.icons8.com/color/48/mac-os--v1.png" alt="mac-os--v1"/>
 
-### My Project
 
-<img width="48" height="48" src="https://img.icons8.com/color/48/sailing-ship-large.png" alt="sailing-ship-large"/>[Battle Ship Game](https://github.com/vinothk-master/Battleship_game)
 
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinothk-master&theme=dark&show_icons=true&&hide=issues,contribs)
