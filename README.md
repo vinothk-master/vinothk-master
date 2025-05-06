@@ -27,5 +27,4 @@ Ex R&D Engineer @ Nokia
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinothk-master&theme=dark&show_icons=true&&hide=issues,contribs)
 
 
-##[![LeetCode Stats](https://leetcard.jacoblin.cool/vinothkannan97?theme=dark&font=Noto%20Sans%20Balinese)](https://leetcode.com/u/vinothkannan97/)
 
