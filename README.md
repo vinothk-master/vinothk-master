@@ -21,7 +21,7 @@ Ex R&D Engineer @ Nokia
 ### 💻 Operating System
 <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/><img width="48" height="48" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/><img width="48" height="48" src="https://img.icons8.com/color/48/mac-os--v1.png" alt="mac-os--v1"/>
 
-
+[![LeetCode Stats](https://leetcard.jacoblin.cool/vinothkannan97?theme=dark&font=Noto%20Sans%20Balinese)](https://leetcode.com/u/vinothkannan97/)
 
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinothk-master&theme=dark&show_icons=true&&hide=issues,contribs)
